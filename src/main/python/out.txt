@@ -1,0 +1,187 @@
+
+Running `python3 autoencoder.py 10 0.8 full.h3n2.fasta 50 10`
+
+Timing <function run at 0x7fe1ec5d3378>
+Training for 50 epochs on 998 batches (batch size 10)...
+epoch [1/50], loss: 0.8824
+epoch [2/50], loss: 0.6977
+epoch [3/50], loss: 0.6329
+epoch [4/50], loss: 0.6125
+epoch [5/50], loss: 0.6221
+epoch [6/50], loss: 0.6123
+epoch [7/50], loss: 0.6073
+epoch [8/50], loss: 0.6128
+epoch [9/50], loss: 0.6091
+epoch [10/50], loss: 0.6143
+epoch [11/50], loss: 0.6294
+epoch [12/50], loss: 0.6278
+epoch [13/50], loss: 0.6262
+epoch [14/50], loss: 0.6233
+epoch [15/50], loss: 0.6022
+epoch [16/50], loss: 0.6023
+epoch [17/50], loss: 0.6011
+epoch [18/50], loss: 0.6021
+epoch [19/50], loss: 0.6026
+epoch [20/50], loss: 0.6007
+epoch [21/50], loss: 0.6011
+epoch [22/50], loss: 0.5997
+epoch [23/50], loss: 0.6005
+epoch [24/50], loss: 0.6036
+epoch [25/50], loss: 0.6038
+epoch [26/50], loss: 0.6032
+epoch [27/50], loss: 0.6026
+epoch [28/50], loss: 0.6027
+epoch [29/50], loss: 0.6022
+epoch [30/50], loss: 0.6018
+epoch [31/50], loss: 0.6018
+epoch [32/50], loss: 0.6018
+epoch [33/50], loss: 0.6033
+epoch [34/50], loss: 0.6008
+epoch [35/50], loss: 0.6057
+epoch [36/50], loss: 0.6052
+epoch [37/50], loss: 0.6044
+epoch [38/50], loss: 0.6054
+epoch [39/50], loss: 0.6081
+epoch [40/50], loss: 0.6032
+epoch [41/50], loss: 0.6056
+epoch [42/50], loss: 0.6032
+epoch [43/50], loss: 0.6055
+epoch [44/50], loss: 0.6063
+epoch [45/50], loss: 0.6033
+epoch [46/50], loss: 0.6049
+epoch [47/50], loss: 0.6066
+epoch [48/50], loss: 0.6119
+epoch [49/50], loss: 0.6114
+epoch [50/50], loss: 0.6137
+Training complete!
+Testing model on 2 batches
+Testing accuracy: 0.0
+Time: 31981.093987464905
+/home/roboticsloaner/.local/lib/python3.7/site-packages/matplotlib/backends/backend_gtk3.py:197: Warning: Source ID 8 was not found when attempting to remove it
+  GLib.source_remove(self._idle_draw_id)
+
+Running `python3 autoencoder.py 5 0.8 full.h3n2.fasta 50 10`
+
+Timing <function run at 0x7f3eb5af8378>
+Training for 50 epochs on 998 batches (batch size 10)...
+epoch [1/50], loss: 1.2418
+epoch [2/50], loss: 1.1299
+epoch [3/50], loss: 1.1125
+epoch [4/50], loss: 1.0808
+epoch [5/50], loss: 1.0783
+epoch [6/50], loss: 1.0695
+epoch [7/50], loss: 1.0600
+epoch [8/50], loss: 1.0605
+epoch [9/50], loss: 1.0632
+epoch [10/50], loss: 1.0909
+epoch [11/50], loss: 1.0833
+epoch [12/50], loss: 1.0856
+epoch [13/50], loss: 1.0657
+epoch [14/50], loss: 1.0606
+epoch [15/50], loss: 1.0442
+epoch [16/50], loss: 1.0359
+epoch [17/50], loss: 1.0344
+epoch [18/50], loss: 0.9884
+epoch [19/50], loss: 0.9620
+epoch [20/50], loss: 0.9622
+epoch [21/50], loss: 0.8786
+epoch [22/50], loss: 0.8735
+epoch [23/50], loss: 0.8744
+epoch [24/50], loss: 0.7218
+epoch [25/50], loss: 0.6034
+epoch [26/50], loss: 0.6018
+epoch [27/50], loss: 0.6010
+epoch [28/50], loss: 0.5985
+epoch [29/50], loss: 0.5991
+epoch [30/50], loss: 0.6012
+epoch [31/50], loss: 0.6000
+epoch [32/50], loss: 0.6024
+epoch [33/50], loss: 0.6027
+epoch [34/50], loss: 0.6008
+epoch [35/50], loss: 0.6036
+epoch [36/50], loss: 0.6009
+epoch [37/50], loss: 0.5999
+epoch [38/50], loss: 0.6008
+epoch [39/50], loss: 0.6016
+epoch [40/50], loss: 0.6023
+epoch [41/50], loss: 0.6067
+epoch [42/50], loss: 0.6044
+epoch [43/50], loss: 0.6008
+epoch [44/50], loss: 0.6037
+epoch [45/50], loss: 0.6019
+epoch [46/50], loss: 0.6038
+epoch [47/50], loss: 0.6039
+epoch [48/50], loss: 0.6088
+epoch [49/50], loss: 0.6113
+epoch [50/50], loss: 0.6041
+Training complete!
+Testing model on 2 batches
+Testing accuracy: 0.0
+Time: 7375.433345317841
+/home/roboticsloaner/.local/lib/python3.7/site-packages/matplotlib/backends/backend_gtk3.py:197: Warning: Source ID 8 was not found when attempting to remove it
+  GLib.source_remove(self._idle_draw_id)
+
+Running `python3 autoencoder.py 15 0.8 full.h3n2.fasta 50 10`
+
+Timing <function run at 0x7f0886fd3378>
+Training for 50 epochs on 998 batches (batch size 10)...
+epoch [1/50], loss: 216.9170
+epoch [2/50], loss: 216.9170
+epoch [3/50], loss: 216.9170
+epoch [4/50], loss: 216.9170
+epoch [5/50], loss: 216.9170
+epoch [6/50], loss: 216.9170
+epoch [7/50], loss: 216.9170
+epoch [8/50], loss: 216.9170
+epoch [9/50], loss: 216.9170
+epoch [10/50], loss: 216.9170
+epoch [11/50], loss: 216.9170
+epoch [12/50], loss: 216.9170
+epoch [13/50], loss: 216.9170
+epoch [14/50], loss: 216.9170
+epoch [15/50], loss: 216.9170
+epoch [16/50], loss: 216.9170
+epoch [17/50], loss: 216.9170
+epoch [18/50], loss: 216.9170
+epoch [19/50], loss: 216.9170
+epoch [20/50], loss: 216.9170
+epoch [21/50], loss: 216.9170
+epoch [22/50], loss: 216.9170
+epoch [23/50], loss: 216.9170
+epoch [24/50], loss: 216.9170
+epoch [25/50], loss: 216.9170
+epoch [26/50], loss: 216.9170
+epoch [27/50], loss: 216.9170
+epoch [28/50], loss: 216.9170
+epoch [29/50], loss: 216.9170
+epoch [30/50], loss: 216.9170
+epoch [31/50], loss: 216.9170
+epoch [32/50], loss: 216.9170
+epoch [33/50], loss: 216.9170
+epoch [34/50], loss: 216.9170
+epoch [35/50], loss: 216.9170
+epoch [36/50], loss: 216.9170
+epoch [37/50], loss: 216.9170
+epoch [38/50], loss: 216.9170
+epoch [39/50], loss: 216.9170
+epoch [40/50], loss: 216.9170
+epoch [41/50], loss: 216.9170
+epoch [42/50], loss: 216.9170
+epoch [43/50], loss: 216.9170
+epoch [44/50], loss: 216.9170
+epoch [45/50], loss: 216.9170
+epoch [46/50], loss: 216.9170
+epoch [47/50], loss: 216.9170
+epoch [48/50], loss: 216.9170
+epoch [49/50], loss: 216.9170
+epoch [50/50], loss: 216.9170
+Training complete!
+Testing model on 2 batches
+Testing accuracy: 0.0
+Time: 6823.555869579315
+/home/roboticsloaner/.local/lib/python3.7/site-packages/matplotlib/backends/backend_gtk3.py:197: Warning: Source ID 8 was not found when attempting to remove it
+  GLib.source_remove(self._idle_draw_id)
+^CTraceback (most recent call last):
+  File "runAutoencoders.py", line 50, in <module>
+    waiting = len(files) <= len(parameters)
+KeyboardInterrupt

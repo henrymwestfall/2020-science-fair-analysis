@@ -61,7 +61,7 @@ loss = criterion(output, target)
 
 optimizer = torch.optim.Adam(network.parameters(), weight_decay=1e-5)
 
-training_data = [torch.FloatTensor([i + random.randint(-50, 50) / 100 for i in range(10)]) for i in range(1000)] # noisy training data
+training_data = [torch.FloatTensor([i for i in range(10)]) for i in range(1000)] # noisy training data
 
 num_epochs = 10
 epoch = 100
